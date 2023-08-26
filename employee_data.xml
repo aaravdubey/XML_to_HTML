@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+    <employee id="113786">
+        <personalInformation>
+            <firstName>Aarav</firstName>
+            <lastName>Dubey</lastName>
+            <dateOfBirth>2002-11-30</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Software Engineer</position>
+            <salary>80000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>john.doe@gmail.com</email>
+            <phoneNumber>9783478388</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="113772">
+        <personalInformation>
+            <firstName>Jane</firstName>
+            <lastName>Smith</lastName>
+            <dateOfBirth>1988-12-03</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Marketing Manager</position>
+            <salary>75000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>jane.smith@gmail.com</email>
+            <phoneNumber>9783487494</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="113799">
+        <personalInformation>
+            <firstName>Michael</firstName>
+            <lastName>Johnson</lastName>
+            <dateOfBirth>1992-08-22</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Financial Analyst</position>
+            <salary>70000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>michael.johnson@gmail.com</email>
+            <phoneNumber>7963468785</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="219854">
+        <personalInformation>
+            <firstName>Priya</firstName>
+            <lastName>Verma</lastName>
+            <dateOfBirth>1990-05-15</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Marketing Manager</position>
+            <salary>95000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>priya.verma@example.com</email>
+            <phoneNumber>9876543210</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="328765">
+        <personalInformation>
+            <firstName>Rahul</firstName>
+            <lastName>Sharma</lastName>
+            <dateOfBirth>1985-09-18</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Project Manager</position>
+            <salary>120000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>rahul.sharma@example.com</email>
+            <phoneNumber>8765432109</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="431982">
+        <personalInformation>
+            <firstName>Sneha</firstName>
+            <lastName>Chatterjee</lastName>
+            <dateOfBirth>1998-03-07</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Graphic Designer</position>
+            <salary>65000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>sneha.c@example.com</email>
+            <phoneNumber>7890123456</phoneNumber>
+        </contactInformation>
+    </employee>
+
+
+
+</employees>
